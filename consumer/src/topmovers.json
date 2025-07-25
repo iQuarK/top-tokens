@@ -1,0 +1,326 @@
+{
+    "EVM": {
+        "DEXTradeByTokens": [
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Wrapped Ether",
+                        "SmartContract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                        "Symbol": "WETH"
+                    },
+                    "current_price": 1949.7525009324472,
+                    "max_price": 135158.16690007,
+                    "min_price": 1927.4641682030538
+                },
+                "avg_price": 7997.968518589963,
+                "price_volatility": 27748.632291779504,
+                "trade_count": "22",
+                "volume_usd": "8709.798706183876"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Ethereum",
+                        "SmartContract": "0x",
+                        "Symbol": "ETH"
+                    },
+                    "current_price": 1940.6437419957604,
+                    "max_price": 1940.6437419957604,
+                    "min_price": 1936.6291793240266
+                },
+                "avg_price": 1938.6364606598936,
+                "price_volatility": 2.007281335773028,
+                "trade_count": "2",
+                "volume_usd": "1121.9788625549536"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "ChainLink Token",
+                        "SmartContract": "0x514910771af9ca656af840dff83e8264ecf986ca",
+                        "Symbol": "LINK"
+                    },
+                    "current_price": 14.155784848446368,
+                    "max_price": 14.157585180782622,
+                    "min_price": 14.136571478349497
+                },
+                "avg_price": 14.149980502526162,
+                "price_volatility": 0.0095100559474407,
+                "trade_count": "3",
+                "volume_usd": "710.8980920334295"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Dai Stablecoin",
+                        "SmartContract": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "Symbol": "DAI"
+                    },
+                    "current_price": 1.0189041683279396,
+                    "max_price": 1.0189041683279396,
+                    "min_price": 0.9999326626946085
+                },
+                "avg_price": 1.009418415511274,
+                "price_volatility": 0.009485752816673392,
+                "trade_count": "2",
+                "volume_usd": "1691.0656986237907"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Tether USD",
+                        "SmartContract": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                        "Symbol": "USDT"
+                    },
+                    "current_price": 1.003379126214804,
+                    "max_price": 1.003379126214804,
+                    "min_price": 0.995723858943885
+                },
+                "avg_price": 0.9997009362580388,
+                "price_volatility": 0.002714284775310047,
+                "trade_count": "4",
+                "volume_usd": "818.1140708471635"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Bancor Network Token",
+                        "SmartContract": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+                        "Symbol": "BNT"
+                    },
+                    "current_price": 0.4054219517567844,
+                    "max_price": 0.4067640003740568,
+                    "min_price": 0.4054219517567844
+                },
+                "avg_price": 0.4060929760654206,
+                "price_volatility": 0.0006710243086535924,
+                "trade_count": "2",
+                "volume_usd": "695.6590045595473"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "USD Coin",
+                        "SmartContract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                        "Symbol": "USDC"
+                    },
+                    "current_price": 1.0006072533887282,
+                    "max_price": 1.0006421023843004,
+                    "min_price": 0.9996412348649575
+                },
+                "avg_price": 1.0001785916923724,
+                "price_volatility": 0.0003829740823997077,
+                "trade_count": "6",
+                "volume_usd": "2452.996765060074"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "YouSwap",
+                        "SmartContract": "0x1d32916cfa6534d261ad53e2498ab95505bd2510",
+                        "Symbol": "YOU"
+                    },
+                    "current_price": 0.010519451665385976,
+                    "max_price": 0.010698327869876564,
+                    "min_price": 0.010519451665385976
+                },
+                "avg_price": 0.01060888976763127,
+                "price_volatility": 0.00008943810224524566,
+                "trade_count": "2",
+                "volume_usd": "0"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "LIL X",
+                        "SmartContract": "0x13d545d47305beddf013fa173aae735acd61dae8",
+                        "Symbol": "Lil X"
+                    },
+                    "current_price": 0.0010570467826515524,
+                    "max_price": 0.0010894490241994859,
+                    "min_price": 0.0010570467826515524
+                },
+                "avg_price": 0.0010732479034255191,
+                "price_volatility": 0.000016201120773962198,
+                "trade_count": "2",
+                "volume_usd": "0"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Power Play",
+                        "SmartContract": "0x9bbe8f42b9c2333fe2a80323028ab107379646c7",
+                        "Symbol": "POWER"
+                    },
+                    "current_price": 0.0002708807505846203,
+                    "max_price": 0.0002708807505846203,
+                    "min_price": 0.00025901093412281827
+                },
+                "avg_price": 0.00026494584235371927,
+                "price_volatility": 0.000005934908230901712,
+                "trade_count": "2",
+                "volume_usd": "0"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Catalorian",
+                        "SmartContract": "0x8baf5d75cae25c7df6d1e0d26c52d19ee848301a",
+                        "Symbol": "CATALORIAN"
+                    },
+                    "current_price": 0.000466162051960744,
+                    "max_price": 0.0004700080970758017,
+                    "min_price": 0.0004638692181404227
+                },
+                "avg_price": 0.00046667978905898954,
+                "price_volatility": 0.000002532784689226937,
+                "trade_count": "3",
+                "volume_usd": "1274.9063424107494"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Hotshot",
+                        "SmartContract": "0x581af89b81b893e1448b2800a5edb9e9e29f73a3",
+                        "Symbol": "HOTSHOT"
+                    },
+                    "current_price": 4.926166917461358e-8,
+                    "max_price": 5.26041909522357e-8,
+                    "min_price": 4.926166917461358e-8
+                },
+                "avg_price": 5.093293006342464e-8,
+                "price_volatility": 1.6712608888110244e-9,
+                "trade_count": "2",
+                "volume_usd": "0"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Apugurl",
+                        "SmartContract": "0xb726fd3f1686c7aac1fc3278b2f53fe5737e44ce",
+                        "Symbol": "APUG"
+                    },
+                    "current_price": 6.2757798158288e-12,
+                    "max_price": 1.0574265575846538e-11,
+                    "min_price": 6.2757798158288e-12
+                },
+                "avg_price": 8.177420523445024e-12,
+                "price_volatility": 1.3672942981489497e-12,
+                "trade_count": "10",
+                "volume_usd": "0"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Fort Knox",
+                        "SmartContract": "0xac6708e83698d34cd5c09d48249b0239008d0ccf",
+                        "Symbol": "FORTKNOX"
+                    },
+                    "current_price": 0.0006819491726851034,
+                    "max_price": 0.0006819491726851034,
+                    "min_price": 0.0006819491726851034
+                },
+                "avg_price": 0.0006819491726851034,
+                "price_volatility": 0,
+                "trade_count": "1",
+                "volume_usd": "0"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Joe Biden",
+                        "SmartContract": "0xc548e90589b166e1364de744e6d35d8748996fe8",
+                        "Symbol": "BIDEN"
+                    },
+                    "current_price": 0.0000984867352787619,
+                    "max_price": 0.0000984867352787619,
+                    "min_price": 0.0000984867352787619
+                },
+                "avg_price": 0.0000984867352787619,
+                "price_volatility": 0,
+                "trade_count": "1",
+                "volume_usd": "0"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Liquid staked Ether 2.0",
+                        "SmartContract": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+                        "Symbol": "stETH"
+                    },
+                    "current_price": 1937.9498189872738,
+                    "max_price": 1937.9498189872738,
+                    "min_price": 1937.9498189872738
+                },
+                "avg_price": 1937.9498189872738,
+                "price_volatility": 0,
+                "trade_count": "1",
+                "volume_usd": "773.8770200578812"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Flockerz",
+                        "SmartContract": "0xb33d999469a7e6b9ebc25a3a05248287b855ed46",
+                        "Symbol": "FLOCK"
+                    },
+                    "current_price": 0.0008956585484148227,
+                    "max_price": 0.0008956585484148227,
+                    "min_price": 0.0008956585484148227
+                },
+                "avg_price": 0.0008956585484148227,
+                "price_volatility": 0,
+                "trade_count": "1",
+                "volume_usd": "0"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "Proton",
+                        "SmartContract": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
+                        "Symbol": "XPR"
+                    },
+                    "current_price": 0.0038572128470136463,
+                    "max_price": 0.0038572128470136463,
+                    "min_price": 0.0038572128470136463
+                },
+                "avg_price": 0.0038572128470136463,
+                "price_volatility": 0,
+                "trade_count": "1",
+                "volume_usd": "1788.0009320575134"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "ApeCoin",
+                        "SmartContract": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+                        "Symbol": "APE"
+                    },
+                    "current_price": 0.5352859546415903,
+                    "max_price": 0.5352859546415903,
+                    "min_price": 0.5352859546415903
+                },
+                "avg_price": 0.5352859546415903,
+                "price_volatility": 0,
+                "trade_count": "1",
+                "volume_usd": "390.4513145366633"
+            },
+            {
+                "Trade": {
+                    "Currency": {
+                        "Name": "QuantumFusion",
+                        "SmartContract": "0x6019dcb2d0b3e0d1d8b0ce8d16191b3a4f93703d",
+                        "Symbol": "QF"
+                    },
+                    "current_price": 1.6032924775741546,
+                    "max_price": 1.6032924775741546,
+                    "min_price": 1.6032924775741546
+                },
+                "avg_price": 1.6032924775741546,
+                "price_volatility": 0,
+                "trade_count": "1",
+                "volume_usd": "772.8287315368652"
+            }
+        ]
+    }
+}
